@@ -56,11 +56,3 @@ What can we do with this
 	- so averaging just past the cusp, then the performance (training to zero error) near zero is reached much quicker with minimal variance  -- this  is theoretical and it maybe doesn't scale to large networks
 
 the future of this points to neural tangent kernels
- 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA5NTEyNjcsLTE0MDIwNjkyMTIsLT
-ExMTg1ODgxMzAsLTIwMzc5MTk0MjQsLTEwOTA4MjMxMDIsNTI4
-MDI1MjM3LC03ODA3NjQ4MTQsLTE1NzYyMzgwNjEsLTgwMTA2OD
-c3MCwtMTcwMjAzMDIwMSwtNDYzNDIzNTYyLC0xNDc0MDcwMDY1
-LDE5NDQ1NDMzMjYsLTE1MDE5NzMzMDRdfQ==
--->

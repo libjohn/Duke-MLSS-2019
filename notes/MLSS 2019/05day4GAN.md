@@ -42,12 +42,3 @@ health data is **little-big data**  i.e. lots of data about only a very few indi
 
 - Automatic Behavior Prediction [?]
 [_The Secrets of Machine Learning: Ten Things You Wish You Had Known Earlier to be More Effective at Data Analysis_ ruden and carlson]([https://www.groundai.com/project/the-secrets-of-machine-learning-ten-things-you-wish-you-had-known-earlier-to-be-more-effective-at-data-analysis/1](https://www.groundai.com/project/the-secrets-of-machine-learning-ten-things-you-wish-you-had-known-earlier-to-be-more-effective-at-data-analysis/1)) 
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODIxNjc4NiwxMTQ1OTkwNDIzLC0yMD
-Y3NDU5MDY3LDM0ODM4MDk1MSwtMTk5ODczNTk1MSwtMTkyOTcz
-NjczMSwtNTE1MTY4NjE2LDE1NTAwOTE3NjUsNzM3NTg2ODkzLC
-0xMTIyODcxMDg3LDIwODE1NDQ2MTcsLTIwNDQzMTc5NDcsLTE4
-MzAxNjI5ODVdfQ==
--->

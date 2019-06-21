@@ -17,11 +17,3 @@ Rachel tells us about how she applied a DL model to take diagnostic condition as
 `tf.reset_empty_graph`   `tf.reset_default_graph`
 
 `tensorboard --logdir.logs run tensorboards`
-
-
- 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE0NzY2NzIsMTE2NjQ3NDcwNCwxMT
-EzNTU2ODY2LC0xNTg2MTkwMjIsLTIwNzU0ODgxMDQsMTcxNzg2
-MzM1MCwtMTU5NTk1ODIyMywtMTkyNzU1ODg4MV19
--->
