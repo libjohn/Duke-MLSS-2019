@@ -106,3 +106,4 @@ checkpoints/
 MNIST_data/
 Lectures/
 *.h5
+.Rproj.user

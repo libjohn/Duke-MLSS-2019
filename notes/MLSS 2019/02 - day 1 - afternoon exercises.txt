@@ -1,0 +1,27 @@
+2019, June 17
+
+## Case Study: 
+Admission Prediction  with a Multilayer Perceptron
+Rachel Ballantyne Draelos
+
+### Data Preparation
+data characteristics:  high dimensional ; incomplete ; multiple irregular ; noisy
+
+Rachel tells us about how she applied a DL model to take diagnostic condition assignment and predict hospitalization
+
+---
+
+## Hands-on  
+
+---
+`tf.reset_empty_graph`   `tf.reset_default_graph`
+
+`tensorboard --logdir.logs run tensorboards`
+
+
+ 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MjE0NzY2NzIsMTE2NjQ3NDcwNCwxMT
+EzNTU2ODY2LC0xNTg2MTkwMjIsLTIwNzU0ODgxMDQsMTcxNzg2
+MzM1MCwtMTU5NTk1ODIyMywtMTkyNzU1ODg4MV19
+-->
